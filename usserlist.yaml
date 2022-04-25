@@ -27,3 +27,10 @@ users:
     groups:
       - admins
       - dev
+  timlang:
+    displayname: "Tim Lang"
+    password:
+    email: tim@transposit.com
+    groups:
+      - admins
+      - dev 
