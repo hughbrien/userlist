@@ -34,3 +34,17 @@ users:
     groups:
       - admins
       - dev 
+   jakesmith:
+    displayname: "Jake T Smith"
+    password:
+    email: jake@test.com
+    groups:
+      - admins
+      - dev
+  billsmith:
+    displayname: "Bill Smith"
+    password:
+    email: Billsmith@test.com
+    groups:
+      - admins
+      - dev
