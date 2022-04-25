@@ -6,10 +6,24 @@ users:
     groups:
       - admins
       - dev
-  hugh:
+  hughpbrien:
     displayname: "Hugh Brien"
     password:
     email: hugh@transposit.com
+    groups:
+      - admins
+      - dev
+  sarahabrien:
+    displayname: "Sara Brien"
+    password:
+    email: sarah@sarahbrien.com
+    groups:
+      - admins
+      - dev
+  hughmbrien:
+    displayname: "Hugh M Brien"
+    password:
+    email: hughyb29@gmail.com
     groups:
       - admins
       - dev
