@@ -41,3 +41,10 @@ users:
     groups:
       - admins
       - dev
+  bobjones:
+    displayname: "Bob Jones"
+    password:
+    email: Billsmith@test.com
+    groups:
+      - admins
+      - dev
